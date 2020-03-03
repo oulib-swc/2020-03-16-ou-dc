@@ -79,7 +79,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2> Registration</h2>
-<h3><A href="https://libcal.ou.edu/event/6544715"> Registration is recommended.</A></h3>
+<h4><A href="https://libcal.ou.edu/event/6544715"> Register here.</A></h4>
 
 <h2 id="general">General Information</h2>
 
